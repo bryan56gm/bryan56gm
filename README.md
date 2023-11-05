@@ -6,11 +6,10 @@
 
 ###
 
-<p align="left">Programador front-end con experiencia en el uso de PUG, SCSS, JavaScript y GULP. Mi habilidad en herramientas de diseño como Photoshop, Illustrator y Adobe XD me brinda un enfoque estético a mis proyectos.
+<p align="left">Programador front-end con experiencia en el uso de PUG, SCSS, JavaScript y GULP, creando interfaces de usuario atractivas y funcionales. Mi habilidad en herramientas de diseño como Photoshop, Illustrator y Adobe XD me brinda un enfoque estético a mis proyectos.
 
-Actualmente, estoy ampliando mis conocimientos en Python, C, SQL y React a través de un curso en Harvard.
-
-Mi visión es seguir mejorando y aprender de los desafíos en el desarrollo web, buscando crear soluciones innovadoras que impacten positivamente a los usuarios y la comunidad en general.</p>
+Tras finalizar mis últimos estudios, donde completé el programa "Computer Science for Web Programming", mi pasión por la programación se ha fortalecido aún más.
+</p>
 
 ###
 
@@ -18,7 +17,7 @@ Mi visión es seguir mejorando y aprender de los desafíos en el desarrollo web,
 
 ###
 
-<p align="left">✨ Creando bugs desde 2022.<br>📚 Actualmente sigo un curso en Harvard.<br>🎯 Transicionar con éxito a futuro, al mundo del backend para un desarrollo profesional completo.<br>
+<p align="left">✨ Creando bugs desde 2022.<br>📚 Actualmente sigo un curso de ReactJS.<br>🎯 Transicionar con éxito a futuro, al mundo del backend para un desarrollo profesional completo.<br>
 
 ###
 
@@ -46,40 +45,19 @@ Mi visión es seguir mejorando y aprender de los desafíos en el desarrollo web,
 <h2 align="left">Proyectos destacados</h2>
 
 ###
+  <a href='https://kevin-uxui.github.io/portfolio/' title='Portfolio UX/UI' target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/creative-uxui/main/preview.jpg"/>
+  </a>
+  <a href='https://bryan56gm.github.io/adobe-prototype/' title='Garcinstal Multiservices' target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/src-garcinstal/main/preview.jpg?token=GHSAT0AAAAAACJQUJNF7A3VPI5NUIX6W3SOZKICNDQ"/>
+  </a>
+  <a href='https://bryan56gm.github.io/giriga' title='Giriga comida fusión' target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/giriga/main/preview.jpg"/>
+  </a>
+  <a href='https://bryan56gm.github.io/risehorizon' title="RiseHorizon" target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/risehorizon/main/preview.jpg"/>
+  </a>   
 
-<div align="left" >
-  <div>
-    <a href='https://www.garcinstal.com' float='right'>
-      <img height='250' src="https://raw.githubusercontent.com/bryan56gm/bryan56gm/main/img/preview-garcinstal.jpg" title="Garcinstal Multiservices LTD" target='_blank'/>
-    </a>
-    <a href='https://www.garcinstal.com'> 
-       <img src="https://img.shields.io/static/v1?message=View&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-    </a>
-    <a href='https://bryan56gm.github.io/adobe-prototype'> 
-       <img src="https://img.shields.io/static/v1?message=Prototype&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-    </a>
-  </div>
 
-  <div>
-    <a href='https://girigafusion.com' title='Giriga comida fusión' target='_blank'>
-      <img max-width='32%' height='250' src="https://raw.githubusercontent.com/bryan56gm/bryan56gm/main/img/preview-giriga.jpg"/>
-    </a>
-    <a href='https://girigafusion.com'> 
-       <img src="https://img.shields.io/static/v1?message=View&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-    </a>
-  </div>
-  
-  <div>
-    <a href='https://bryan56gm.github.io/risehorizon' title="RiseHorizon" target='_blank'>
-      <img max-width='32%' height='250' src="https://raw.githubusercontent.com/bryan56gm/bryan56gm/main/img/preview-risehorizon.png"/>
-    </a>
-    <a href='https://bryan56gm.github.io/risehorizon'> 
-       <img src="https://img.shields.io/static/v1?message=View&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-    </a>
-    <a href='https://github.com/bryan56gm/src-risehorizon'> 
-       <img src="https://img.shields.io/static/v1?message=Code&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-    </a>
-  </div>
-</div>
 
 ###
