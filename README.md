@@ -49,7 +49,7 @@ Tras finalizar mis últimos estudios, donde completé el programa "Computer Scie
     <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/creative-uxui/main/preview.jpg"/>
   </a>
   <a href='https://bryan56gm.github.io/adobe-prototype/' title='Garcinstal Multiservices' target='_blank'>
-    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/src-garcinstal/main/preview.jpg?token=GHSAT0AAAAAACJQUJNF7A3VPI5NUIX6W3SOZKICNDQ"/>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/bryan56gm/main/img/preview-garcinstal.jpg"/>
   </a>
   <a href='https://bryan56gm.github.io/giriga' title='Giriga comida fusión' target='_blank'>
     <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/giriga/main/preview.jpg"/>
