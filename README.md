@@ -45,22 +45,19 @@ Tras finalizar mis últimos estudios, donde completé el programa "Computer Scie
 <h2 align="left">Proyectos destacados</h2>
 
 ###
-  <div>
-    <a href='https://kevin-uxui.github.io/portfolio/' title='Portfolio UX/UI' target='_blank'>
-      <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/creative-uxui/main/preview.jpg"/>
-    </a>
-    <a href='https://bryan56gm.github.io/adobe-prototype/' title='Garcinstal Multiservices' target='_blank'>
-      <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/bryan56gm/main/img/preview-garcinstal.jpg"/>
-    </a>
-  </div>
-  <div>
-    <a href='https://bryan56gm.github.io/giriga' title='Giriga comida fusión' target='_blank'>
-      <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/giriga/main/preview.jpg"/>
-    </a>
-    <a href='https://bryan56gm.github.io/risehorizon' title="RiseHorizon" target='_blank'>
-      <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/risehorizon/main/preview.jpg"/>
-    </a>   
-  </div>
+  <a href='https://kevin-uxui.github.io/portfolio/' title='Portfolio UX/UI' target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/creative-uxui/main/preview.jpg"/>
+  </a>
+  <a href='https://bryan56gm.github.io/adobe-prototype/' title='Garcinstal Multiservices' target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/bryan56gm/main/img/preview-garcinstal.jpg"/>
+  </a>
+  <a href='https://bryan56gm.github.io/giriga' title='Giriga comida fusión' target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/giriga/main/preview.jpg"/>
+  </a>
+  <a href='https://bryan56gm.github.io/risehorizon' title="RiseHorizon" target='_blank'>
+    <img width='32%' height="250" src="https://raw.githubusercontent.com/bryan56gm/risehorizon/main/preview.jpg"/>
+  </a>   
+
 
 
 
