@@ -6,18 +6,17 @@
 
 ###
 
-<p align="left">Programador front-end con experiencia en el uso de PUG, SCSS, JavaScript y GULP, creando interfaces de usuario atractivas y funcionales. Mi habilidad en herramientas de diseño como Photoshop, Illustrator y Adobe XD me brinda un enfoque estético a mis proyectos.
-
-Tras finalizar mis últimos estudios, donde completé el programa "Computer Science for Web Programming", mi pasión por la programación se ha fortalecido aún más.
-</p>
-
-###
-
-<h2 align="left">Acerca de mi</h2>
+<p align="left">Desarrollador FullStack especializado en la creación de interfaces intuitivas y arquitecturas escalables. Fusionando diseño y desarrollo para construir productos eficientes, accesibles y de alto rendimiento.  
+Apasionado por la optimización, la sostenibilidad y las mejores prácticas del desarrollo moderno.  
+Actualmente explorando nuevas tecnologías y aplicando enfoques avanzados para mejorar la experiencia del usuario.</p>
 
 ###
 
-<p align="left">✨ Creando bugs desde 2022.<br>📚 Actualmente sigo un curso de ReactJS.<br>🎯 Transicionar con éxito a futuro, al mundo del backend para un desarrollo profesional completo.<br>
+<h2 align="left">Acerca de mí</h2>
+
+###
+
+<p align="left">✨ Creando bugs desde 2022.<br>📚 Profundizando en arquitecturas serverless y optimización de Core Web Vitals.<br>🎯 Ampliando habilidades en backend para un desarrollo FullStack completo.<br>
 
 ###
 
@@ -29,10 +28,11 @@ Tras finalizar mis últimos estudios, donde completé el programa "Computer Scie
   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
@@ -57,8 +57,3 @@ Tras finalizar mis últimos estudios, donde completé el programa "Computer Scie
   <a href='https://bryan56gm.github.io/risehorizon' title="RiseHorizon" target='_blank'>
     <img width='32%' height="210" src="https://raw.githubusercontent.com/bryan56gm/risehorizon/main/preview.jpg"/>
   </a>   
-
-
-
-
-###
