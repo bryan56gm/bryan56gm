@@ -16,8 +16,11 @@ Actualmente explorando nuevas tecnologías y aplicando enfoques avanzados para m
 
 ###
 
-<p align="left">✨ Creando bugs desde 2022.<br>📚 Profundizando en arquitecturas serverless y optimización de Core Web Vitals.<br>🎯 Ampliando habilidades en backend para un desarrollo FullStack completo.<br>
-
+<p align="left">
+  ✨ Creando bugs desde 2022.<br>
+  📚 Profundizando en arquitecturas serverless y optimización de Core Web Vitals.<br>
+  🎯 Ampliando habilidades en backend para un desarrollo FullStack completo.<br>
+</p>
 ###
 
 <h2 align="left">Lenguajes y herramientas</h2>
