@@ -21,7 +21,6 @@ Actualmente explorando nuevas tecnologías y aplicando enfoques avanzados para m
   📚 Profundizando en arquitecturas serverless y optimización de Core Web Vitals.<br>
   🎯 Ampliando habilidades en backend para un desarrollo FullStack completo.<br>
 </p>
-###
 
 <h2 align="left">Lenguajes y herramientas</h2>
 
