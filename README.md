@@ -1,61 +1,84 @@
-<h1 align="center">Hola👋 Soy Bryan Garcia.</h1>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/b4i7XITEcCIAAAAi/computer-games-computer-game.gif"  />
-
-###
-
-<p align="left">Desarrollador FullStack especializado en la creación de interfaces intuitivas y arquitecturas escalables. Fusionando diseño y desarrollo para construir productos eficientes, accesibles y de alto rendimiento.  
-Apasionado por la optimización, la sostenibilidad y las mejores prácticas del desarrollo moderno.  
-Actualmente explorando nuevas tecnologías y aplicando enfoques avanzados para mejorar la experiencia del usuario.</p>
-
-###
-
-<h2 align="left">Acerca de mí</h2>
-
-###
-
-<p align="left">
-  ✨ Creando bugs desde 2022.<br>
-  📚 Profundizando en arquitecturas serverless y optimización de Core Web Vitals.<br>
-  🎯 Ampliando habilidades en backend para un desarrollo FullStack completo.<br>
+<p align="center">
+  <img src="assets/banner.svg" alt="Bryan García Munive — Full Stack Developer" width="100%">
 </p>
 
-<h2 align="left">Lenguajes y herramientas</h2>
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0f5750?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-0f5750?style=flat-square&logo=react&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0f5750?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-0f5750?style=flat-square&logo=astro&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0f5750?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0f5750?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0f5750?style=flat-square&logo=supabase&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0f5750?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0f5750?style=flat-square&logo=playwright&logoColor=white">
+</p>
 
-###
+<p align="center">
+  Construyo sistemas de gestión a medida y los mantengo en producción.<br>
+  Aquí está lo que se puede abrir; el resto es de clientes.
+</p>
 
-<div>
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</div>
+<br>
 
-###
+## Lo que se puede abrir
 
-<h2 align="left">Proyectos destacados</h2>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://wildkeys.io"><img src="assets/wildkeys.jpg" alt="WildKeys" width="100%"></a>
+      <br><br>
+      <b><a href="https://wildkeys.io">wildkeys.io</a></b><br>
+      Identificación de especies con claves dicotómicas, en tres idiomas. CMS y editor visual propios.<br>
+      <sub>Next.js · Supabase · CI con comprobación nocturna</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://games.wildkeys.io"><img src="assets/games.jpg" alt="WildKeys Games" width="100%"></a>
+      <br><br>
+      <b><a href="https://games.wildkeys.io">games.wildkeys.io</a></b><br>
+      PWA que funciona sin conexión, con el motor de juego separado de React. Estrenada en un evento físico.<br>
+      <sub>Vite · React · service worker · marcador con cola offline</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://kreiselevents.com"><img src="assets/kreisel.jpg" alt="Kreisel Events" width="100%"></a>
+      <br><br>
+      <b><a href="https://kreiselevents.com">kreiselevents.com</a></b><br>
+      Astro con CMS headless propio: el cliente publica al instante sin perder el rendimiento de un sitio estático.<br>
+      <sub>Astro · React · Supabase · JSON-LD, hreflang</sub>
+    </td>
+  </tr>
+</table>
 
-###
-  <a href='https://kevin-uxui.github.io/portfolio/' title='Portfolio UX/UI' target='_blank'>
-    <img width='32%' height="210" src="https://raw.githubusercontent.com/bryan56gm/creative-uxui/main/preview.jpg"/>
-  </a>
-  <a href='https://bryan56gm.github.io/adobe-prototype/' title='Garcinstal Multiservices' target='_blank'>
-    <img width='32%' height="210" src="https://raw.githubusercontent.com/bryan56gm/bryan56gm/main/img/preview-garcinstal.jpg"/>
-  </a>
-  <a href='https://bryan56gm.github.io/giriga' title='Giriga comida fusión' target='_blank'>
-    <img width='32%' height="210" src="https://raw.githubusercontent.com/bryan56gm/giriga/main/preview.jpg"/>
-  </a>
-  <a href='https://bryan56gm.github.io/risehorizon' title="RiseHorizon" target='_blank'>
-    <img width='32%' height="210" src="https://raw.githubusercontent.com/bryan56gm/risehorizon/main/preview.jpg"/>
-  </a>   
+<br>
+
+## Código que se puede leer
+
+### [harvis-standards](https://github.com/bryan56gm/harvis-standards) &nbsp;<img alt="v2.1.0" src="https://img.shields.io/github/v/tag/bryan56gm/harvis-standards?style=flat-square&color=0f5750&label=">
+
+Mi estándar de ingeniería, convertido en paquete para que no dependa de acordarse. Lo instalan como dependencia todos mis proyectos, así que una regla cambia en un sitio y llega a todos.
+
+- **ESLint flat config por framework** — Next, Vite y Astro, componibles.
+- **Una regla propia**: [`no-arbitrary-tailwind`](https://github.com/bryan56gm/harvis-standards/blob/main/rules/no-arbitrary-tailwind.js), que prohíbe los valores arbitrarios de Tailwind para que el sistema de diseño no se erosione a base de `[13px]`.
+- **Plantillas** de lefthook, commitlint, knip, renovate y CI — [`templates/`](https://github.com/bryan56gm/harvis-standards/tree/main/templates).
+- Versionado con etiquetas y CHANGELOG, con su propia CI y tests.
+
+> El porqué de cada regla vive escrito aparte; aquí está solo lo que una máquina puede hacer cumplir.
+
+<br>
+
+## Cómo trabajo
+
+| | |
+|---|---|
+| **Decisiones escritas** | Cada decisión de arquitectura queda documentada, con lo que se descartó y por qué. |
+| **Garantías en la base de datos** | Las reglas que no pueden fallar viven en RLS y restricciones, no en la convención. |
+| **Pruebas antes del commit** | Lo que no pasa, no sale. [Lefthook y commitlint](https://github.com/bryan56gm/harvis-standards/tree/main/templates) como plantilla, no como buena intención. |
+| **Silencio por defecto** | Lo que corre solo, avisa solo si falla. |
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/bryangm"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin.com%2Fin%2Fbryangm-0f5750?style=flat-square&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:bryann56gm@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/bryann56gm%40gmail.com-0f5750?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
