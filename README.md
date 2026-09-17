@@ -1,23 +1,35 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Bryan García Munive — Full Stack Developer" width="100%">
-</p>
+## Hola, soy Bryan 👋
 
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0f5750?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-0f5750?style=flat-square&logo=react&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0f5750?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-0f5750?style=flat-square&logo=astro&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0f5750?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0f5750?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0f5750?style=flat-square&logo=supabase&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0f5750?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0f5750?style=flat-square&logo=playwright&logoColor=white">
-</p>
+**Full Stack Developer** en Barcelona. Llevo **más de cuatro años** construyendo sistemas de gestión de principio a fin —del modelo de datos al despliegue— y manteniéndolos en producción para empresas de distribución alimentaria, construcción, hostelería y administración pública.
 
-<p align="center">
-  Construyo sistemas de gestión a medida y los mantengo en producción.<br>
-  Aquí está lo que se puede abrir; el resto es de clientes.
-</p>
+Ahora mismo levanto un **ERP que unifica siete sociedades** en una sola base de datos, con consulta en lenguaje natural para dirección. Antes, Dynamics 365 dentro de un partner de Microsoft.
+
+Lo que más me interesa: **que un sistema siga funcionando cuando nadie lo mira**. Reglas garantizadas en la base de datos, procesos que avisan solo si fallan, y cada decisión de arquitectura escrita con lo que se descartó y por qué.
+
+<table>
+<tr><td>
+
+🔭 &nbsp;Construyendo un ERP para un grupo de 7 sociedades
+🌱 &nbsp;Aprendiendo despliegues con agentes de IA gobernados
+💬 &nbsp;Pregúntame de Postgres, RLS, offline-first o integraciones con ERPs
+📫 &nbsp;[bryann56gm@gmail.com](mailto:bryann56gm@gmail.com) · [linkedin.com/in/bryangm](https://linkedin.com/in/bryangm)
+🌍 &nbsp;Castellano y catalán nativos · inglés intermedio
+
+</td></tr>
+</table>
+
+<br>
+
+## Con qué trabajo
+
+| | |
+|---|---|
+| **A diario** | ![TypeScript](https://img.shields.io/badge/TypeScript-0f5750?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-0f5750?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-0f5750?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0f5750?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f5750?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-0f5750?style=flat-square&logo=supabase&logoColor=white) |
+| **También** | ![Astro](https://img.shields.io/badge/Astro-3a7f78?style=flat-square&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-3a7f78?style=flat-square&logo=tailwindcss&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3a7f78?style=flat-square&logo=prisma&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-3a7f78?style=flat-square&logo=capacitor&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-3a7f78?style=flat-square&logo=postgresql&logoColor=white) |
+| **Calidad** | ![Vitest](https://img.shields.io/badge/Vitest-3a7f78?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-3a7f78?style=flat-square&logo=playwright&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-3a7f78?style=flat-square&logo=eslint&logoColor=white) — tests y linter obligatorios antes de cada commit |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-3a7f78?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-3a7f78?style=flat-square&logo=linux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-3a7f78?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-3a7f78?style=flat-square&logo=vercel&logoColor=white) — VPS propio, CI y copias de seguridad automatizadas |
+| **IA aplicada** | Consultas a un ERP en lenguaje natural vía MCP, memoria semántica con pgvector, agentes que no ejecutan nada irreversible sin aprobación |
+| **Y antes** | ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-6d767e?style=flat-square&logo=microsoftdynamics365&logoColor=white) ![Power Platform](https://img.shields.io/badge/Power%20Platform-6d767e?style=flat-square&logo=microsoftpowerplatform&logoColor=white) — X++, Power Apps y Power Automate en implantaciones de pymes a multinacionales |
 
 <br>
 
@@ -53,7 +65,7 @@
 
 ## Código que se puede leer
 
-### [harvis-standards](https://github.com/bryan56gm/harvis-standards) &nbsp;<img alt="v2.1.0" src="https://img.shields.io/github/v/tag/bryan56gm/harvis-standards?style=flat-square&color=0f5750&label=">
+### [harvis-standards](https://github.com/bryan56gm/harvis-standards) &nbsp;<img alt="versión" src="https://img.shields.io/github/v/tag/bryan56gm/harvis-standards?style=flat-square&color=0f5750&label=">
 
 Mi estándar de ingeniería, convertido en paquete para que no dependa de acordarse. Lo instalan como dependencia todos mis proyectos, así que una regla cambia en un sitio y llega a todos.
 
@@ -78,7 +90,5 @@ Mi estándar de ingeniería, convertido en paquete para que no dependa de acorda
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bryangm"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin.com%2Fin%2Fbryangm-0f5750?style=flat-square&logo=linkedin&logoColor=white"></a>
-  &nbsp;
-  <a href="mailto:bryann56gm@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/bryann56gm%40gmail.com-0f5750?style=flat-square&logo=gmail&logoColor=white"></a>
+  <sub>La mayoría de mi código es de clientes y vive en repositorios privados. Lo que hay aquí es lo que puedo enseñar.</sub>
 </p>
