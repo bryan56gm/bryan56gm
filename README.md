@@ -6,10 +6,10 @@ Ahora mismo levanto un **ERP que unifica siete sociedades** en una sola base de 
 
 Lo que más me interesa: **que un sistema siga funcionando cuando nadie lo mira**. Reglas garantizadas en la base de datos, procesos que avisan solo si fallan, y cada decisión de arquitectura escrita con lo que se descartó y por qué.
 
-🔭 &nbsp;Construyendo un ERP para un grupo de 7 sociedades
-🌱 &nbsp;Aprendiendo despliegues con agentes de IA gobernados
-💬 &nbsp;Pregúntame de Postgres, RLS, offline-first o integraciones con ERPs
-📫 &nbsp;[bryann56gm@gmail.com](mailto:bryann56gm@gmail.com) · [linkedin.com/in/bryangm](https://linkedin.com/in/bryangm)
+🔭 &nbsp;Construyendo un ERP para un grupo de 7 sociedades<br>
+🌱 &nbsp;Aprendiendo despliegues con agentes de IA gobernados<br>
+💬 &nbsp;Pregúntame de Postgres, RLS, offline-first o integraciones con ERPs<br>
+📫 &nbsp;[bryann56gm@gmail.com](mailto:bryann56gm@gmail.com) · [linkedin.com/in/bryangm](https://linkedin.com/in/bryangm)<br>
 🌍 &nbsp;Castellano y catalán nativos · inglés intermedio
 
 <br>
