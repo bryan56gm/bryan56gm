@@ -53,7 +53,16 @@
 
 ## Código que se puede leer
 
-**[harvis-standards](https://github.com/bryan56gm/harvis-standards)** — el estándar de ingeniería que aplico en todos mis repos, convertido en máquina para que no dependa de acordarse: ESLint por framework con una regla propia para Tailwind, Prettier, `tsconfig` base, plantillas de lefthook y commitlint, y un workflow de CI reutilizable. Versionado y usado como dependencia en cada proyecto.
+### [harvis-standards](https://github.com/bryan56gm/harvis-standards) &nbsp;<img alt="v2.1.0" src="https://img.shields.io/github/v/tag/bryan56gm/harvis-standards?style=flat-square&color=0f5750&label=">
+
+Mi estándar de ingeniería, convertido en paquete para que no dependa de acordarse. Lo instalan como dependencia todos mis proyectos, así que una regla cambia en un sitio y llega a todos.
+
+- **ESLint flat config por framework** — Next, Vite y Astro, componibles.
+- **Una regla propia**: [`no-arbitrary-tailwind`](https://github.com/bryan56gm/harvis-standards/blob/main/rules/no-arbitrary-tailwind.js), que prohíbe los valores arbitrarios de Tailwind para que el sistema de diseño no se erosione a base de `[13px]`.
+- **Plantillas** de lefthook, commitlint, knip, renovate y CI — [`templates/`](https://github.com/bryan56gm/harvis-standards/tree/main/templates).
+- Versionado con etiquetas y CHANGELOG, con su propia CI y tests.
+
+> El porqué de cada regla vive escrito aparte; aquí está solo lo que una máquina puede hacer cumplir.
 
 <br>
 
