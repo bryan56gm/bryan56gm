@@ -51,13 +51,19 @@
 
 <br>
 
+## Código que se puede leer
+
+**[harvis-standards](https://github.com/bryan56gm/harvis-standards)** — el estándar de ingeniería que aplico en todos mis repos, convertido en máquina para que no dependa de acordarse: ESLint por framework con una regla propia para Tailwind, Prettier, `tsconfig` base, plantillas de lefthook y commitlint, y un workflow de CI reutilizable. Versionado y usado como dependencia en cada proyecto.
+
+<br>
+
 ## Cómo trabajo
 
 | | |
 |---|---|
 | **Decisiones escritas** | Cada decisión de arquitectura queda documentada, con lo que se descartó y por qué. |
 | **Garantías en la base de datos** | Las reglas que no pueden fallar viven en RLS y restricciones, no en la convención. |
-| **Pruebas antes del commit** | Lo que no pasa, no sale. |
+| **Pruebas antes del commit** | Lo que no pasa, no sale. [Lefthook y commitlint](https://github.com/bryan56gm/harvis-standards/tree/main/templates) como plantilla, no como buena intención. |
 | **Silencio por defecto** | Lo que corre solo, avisa solo si falla. |
 
 <br>
